@@ -1,4 +1,4 @@
-@doop/service-{{FIXME}}
+@doop/service-replace
 ==================
 
-A {{FIXME}} service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
+A field replacement service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
