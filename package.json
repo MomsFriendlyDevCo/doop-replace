@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-replace",
+  "name": "@doop/replace",
   "version": "1.0.0",
   "description": "A field replacement service for the Doop framework",
   "repository": {
