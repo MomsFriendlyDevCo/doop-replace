@@ -4,7 +4,7 @@
   "description": "A field replacement service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-replace.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-replace.git"
   },
   "keywords": [
     "doop"
@@ -12,13 +12,10 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-replace/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-replace/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-replace#readme",
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-replace#readme",
   "dependencies": {
     "lodash": "^4.17.21"
-  },
-  "workspaces": [
-    "../*"
-  ]
+  }
 }
